@@ -1,66 +1,41 @@
-<p align="center">
-  <img src="https://i.imgur.com/K1I2p2p.gif" alt="Cyberpunk Cityscape">
+<h1 align="center">Hi 👋, I'm Ravi Gupta</h1>
+<h3 align="center">A passionate Software Development Engineer from India</h3>
+
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+
+- 🌱 I’m currently learning **DSA, Web Development, Machine Learning, and NLP**
+- 💻 I’m currently working as a **Content Development-Tech Intern at Unstop**
+- 🎨 I have experience in **Frontend and Backend Development** with **Django, React.js, Node.js, Express.js**
+- 🔐 Skilled in **Website Penetration Testing** and familiar with various **security tools**
+- 🤖 Learning  **AI-Integrated Website Development**
+- 📚 Check out my projects on **[Project & work ](https://github.com/guptaravimp?tab=repositories)**
+- 👤 Previously interned at **Bluestock Fintech (Frontend Developer) & GeeksforGeeks (Technical Content Writer)**
+- 📝 Published multiple articles on **GeeksforGeeks** related to Software Development
+- 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, Python, Machine Learning, and NLP**
+- 📧 Reach me at **guptaravicse22@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ravigup81300184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ravi-gupta-44bb451b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__ravi_gupta226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCOJospamwhg5J9SJ4SGtbzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=800&lines=ACCESSING+MAINFRΔME...;GREETINGS,+WANDERER.;WELCOME+TO+MY+DOMAIN." alt="Typing SVG">
-</div>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h2 align="center">SYSTEM KERNEL</h2>
-      <p align="center">
-        <i>"Ký ức có thể bị viết lại. Một con người cũng vậy. Nhưng linh hồn thì không."</i>
-      </p>
-      <hr>
-      <h3>//: CORE DIRECTIVES</h3>
-      <ul>
-        <li><b>[CURRENT_MISSION]</b>: Điều hướng qua biển dữ liệu, tìm kiếm những tín hiệu bất thường trong sự tĩnh lặng.</li>
-        <li><b>[PRIMARY_PROTOCOL]</b>: Phá vỡ các quy tắc thông thường để kiến tạo nên những chuẩn mực mới.</li>
-        <li><b>[BACKGROUND_PROCESS]</b>: Phân tích các mẫu hình xã hội và thẩm mỹ của nhân loại.</li>
-        <li><b>[ACTIVE_CONNECTION]</b>: Luôn mở cổng kết nối cho những thực thể mang tư duy đột phá.</li>
-      </ul>
-      
-      <h3>//: TOOLS & GEAR</h3>
-      <p>
-        <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-        <img src="https://img.shields.io/badge/Interface-Neuralink-lightgrey?style=for-the-badge" alt="Neuralink">
-        <img src="https://img.shields.io/badge/Power_Source-Stark_Industries_Arc_Reactor-00A9E0?style=for-the-badge" alt="Arc Reactor">
-      </p>
-    </td>
-    
-    <td width="35%" valign="top">
-      <h2 align="center">DATA STREAM</h2>
-      <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEN_TAI_KHOAN_GITHUB_CUA_BAN&show_icons=true&locale=en&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-        <br><br>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TEN_TAI_KHOAN_GITHUB_CUA_BAN&theme=dracula&hide_border=true" alt="GitHub Streak" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://i.imgur.com/eB3pKN8.png" alt="divider" style="width:100%;">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<div align="center">
-  <h2>//: ESTABLISH CONNECTION</h2>
-  <p>Gửi tín hiệu của bạn qua các cổng giao tiếp sau. Phản hồi có thể không tức thì.</p>
-    <a href="https://www.facebook.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Facebook-0078D4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://discord.com/users/YOUR_USER_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-</div>
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TEN_TAI_KHOAN_GITHUB_CUA_BAN&label=CONNECTION_ATTEMPTS&color=00ffff&style=flat-square" alt="visitors" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer&text=&fontSize=30" />
-</p>
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptaravimp&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptaravimp&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaravimp&" alt="GitHub Streak" /></p>
